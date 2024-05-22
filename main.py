@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/@kddkdkdkdk730/bin/env python3
 
 from src.Osintgram import Osintgram
 import argparse
